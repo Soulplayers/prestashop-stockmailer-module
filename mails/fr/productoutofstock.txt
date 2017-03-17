@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Bonjour, 
+
+Suite à une modification de stock, il ne reste plus que {qty} articles pour le produit : {product}.
+
+Si vous le souhaitez vous pouvez vous rendre sur la page produit 
+du panneau d'administration afin de gerer vos stocks.
+		 
+
+{shop_name} [{shop_url}] powered
+by PrestaShop(tm) [http://www.prestashop.com/] 
+

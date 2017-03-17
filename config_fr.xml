@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>stockmailer</name>
+	<displayName><![CDATA[Stock Mailer]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[Ce module va envoyer par e-mail automatiquement la quantité de produits restants en stock à chaque fois que le stock d'un produit est modifié.]]></description>
+	<author><![CDATA[SoulPlayer]]></author>
+	<tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

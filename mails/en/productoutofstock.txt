@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hi,
+
+Due to a command the remaining stock is now {qty}.
+
+If you wish you can go to the product page
+Of the administration panel to manage your inventory.	 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+
